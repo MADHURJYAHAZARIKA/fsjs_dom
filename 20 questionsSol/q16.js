@@ -1,0 +1,1 @@
+document.querySelector('.section-label_text__OTARC').textContent ="Start with Scratch"
